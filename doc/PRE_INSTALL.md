@@ -1,1 +1,2 @@
-This is a dummy disclaimer to display prior to the install
+This app redirect the user to the AdversaryMeter SaaS application.
+It does not install it locally.
